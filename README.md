@@ -90,8 +90,12 @@ company_policy_rag_assistant/
 
 | Example Question                       | Example Output                                                                                                            |
 | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
-| “What is our hybrid work policy?”      | The hybrid work policy allows employees to work remotely up to 3 days a week, subject to manager approval.                |
-| “How do I claim travel reimbursement?” | Employees must submit receipts through the Expense Portal within 14 days. Approvals are routed automatically to managers. |
+| “What is the minimum internet speed requirement for remote workers?”      | The minimum internet speed requirement for remote workers is 25 Mbps download and 5 Mbps upload.                |
+| “How many core office days are required per week for hybrid employees?” | Hybrid employees are required to be in the office on two core office days per week: Tuesdays (designated collaboration day) and Thursdays (team meeting day). |
+| “what is the weightage of business results vs behavioural competencies during performance review”      | The weightage of business results versus behavioral competencies during performance reviews is typically 70% for business results and 30% for behavioral competencies and collaboration.                |
+| “How many days in advance the tickets need to be booked for air travel?”      | How many days in advance the tickets need to be booked for air travel?                |
+| “Is MFA mandatory for remote access?”      | Yes, Multi-Factor Authentication (MFA) is mandatory for all remote access, as stated in the password and authentication standards section of the context provided.                |
+
 
 ---
 
