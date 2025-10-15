@@ -1,1 +1,1 @@
-# company_rag_assistant
+# company_policy_rag_assistant
