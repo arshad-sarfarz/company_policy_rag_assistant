@@ -1,0 +1,323 @@
+# **Performance Review & Career Development Policy**
+
+**Version:** 1.0 | **Effective Date:** January 2025
+**Issued By:** Human Resources & Talent Management Office
+
+---
+
+## **1. Purpose and Objectives**
+
+The purpose of this policy is to establish a structured and transparent system for assessing employee performance, identifying growth opportunities, and enabling continuous career development.
+
+Performance reviews are not meant to be punitive or bureaucratic. They are an opportunity for employees and managers to reflect on achievements, discuss goals, and plan future success. The company believes that great performance is sustained when people feel valued, supported, and challenged.
+
+Key objectives:
+
+1. Align individual performance with organizational goals.
+2. Foster two-way communication and feedback culture.
+3. Provide data-driven insights for learning and promotion decisions.
+4. Encourage personal and professional growth.
+
+---
+
+## **2. Scope**
+
+This policy applies to all permanent and probationary employees.
+Contractors and consultants may be evaluated under separate agreements but are expected to meet performance expectations for their deliverables.
+
+---
+
+## **3. Principles of Effective Performance Management**
+
+1. **Fairness:** Every employee is evaluated objectively based on measurable outcomes.
+2. **Transparency:** Expectations and criteria are shared at the beginning of each cycle.
+3. **Consistency:** The process applies uniformly across functions and geographies.
+4. **Continuous Feedback:** Performance management is an ongoing conversation, not an annual event.
+5. **Development Focus:** The goal is growth — not just rating.
+
+---
+
+## **4. Performance Review Cycle**
+
+### **4.1 Annual Cycle**
+
+Performance reviews occur once annually, typically at the end of the fiscal year. The process includes:
+
+* **Goal Setting (Q1):** Establish clear, measurable objectives.
+* **Mid-Year Check-In (Q2–Q3):** Review progress, recalibrate goals if needed.
+* **Annual Review (Q4):** Formal evaluation and rating.
+
+### **4.2 Continuous Feedback**
+
+Managers are encouraged to provide real-time feedback throughout the year — acknowledging wins, addressing challenges early, and avoiding surprises during annual reviews.
+
+### **4.3 Probation Reviews**
+
+New employees undergo a structured review at the end of probation (usually six months) to confirm suitability for the role.
+
+---
+
+## **5. Goal Setting**
+
+### **5.1 SMART Framework**
+
+Goals must be **Specific**, **Measurable**, **Achievable**, **Relevant**, and **Time-bound**.
+
+Examples:
+
+* “Increase customer satisfaction score from 80% to 90% by Q4.”
+* “Complete Azure certification within six months.”
+
+### **5.2 Alignment**
+
+Employee goals should align with department OKRs (Objectives and Key Results) and overall company strategy.
+
+### **5.3 Weightage**
+
+Typically, 70% of the evaluation relates to business results, and 30% to behavioral competencies and collaboration.
+
+---
+
+## **6. Review Inputs**
+
+Performance evaluations consider:
+
+* **Quantitative Metrics:** KPIs, targets, and deliverables.
+* **Qualitative Feedback:** Peer and manager observations.
+* **Self-Assessment:** Employee’s reflection on achievements and challenges.
+* **360° Feedback:** Optional input from cross-functional colleagues for senior roles.
+
+---
+
+## **7. Rating Framework**
+
+A 5-point scale may be used:
+
+1. **Outstanding:** Far exceeds expectations.
+2. **Exceeds Expectations:** Consistently above targets.
+3. **Meets Expectations:** Fully achieves goals.
+4. **Partially Meets:** Some goals unmet or inconsistent performance.
+5. **Does Not Meet:** Significant underperformance.
+
+Ratings guide promotions, bonuses, and development plans but must always be supported by documented evidence and discussion.
+
+---
+
+## **8. Career Development Planning**
+
+### **8.1 Individual Development Plans (IDP)**
+
+Every employee creates an IDP annually with their manager, outlining:
+
+* Career aspirations.
+* Skill gaps.
+* Training or mentoring needs.
+* Timeline for development.
+
+### **8.2 Learning and Development (L&D)**
+
+The company offers access to:
+
+* Online courses and certification platforms.
+* Leadership development workshops.
+* Cross-functional rotation programs.
+* Coaching and mentoring sessions.
+
+### **8.3 Stretch Assignments**
+
+High performers may be offered temporary leadership roles or special projects to broaden their experience.
+
+---
+
+## **9. Promotions and Career Progression**
+
+Promotions are based on sustained performance, readiness for expanded responsibility, and business needs.
+Promotion criteria include:
+
+* Consistent high performance for two consecutive cycles.
+* Demonstrated leadership potential.
+* Completion of required skills or certifications.
+
+Managers must justify promotion recommendations with performance data and behavioral evidence.
+
+---
+
+## **10. Underperformance Management**
+
+When employees struggle to meet expectations:
+
+* Managers provide timely feedback and identify root causes.
+* A **Performance Improvement Plan (PIP)** may be introduced, outlining measurable goals and timelines (typically 60–90 days).
+* HR supports both manager and employee throughout the process.
+
+If progress remains insufficient after the PIP, reassignment or termination may be considered.
+
+---
+
+## **11. Feedback Culture**
+
+The company promotes an “open feedback” environment. Constructive feedback is specific, timely, and focused on behaviors, not personalities.
+Managers are trained to deliver feedback empathetically; employees are encouraged to receive it with openness and curiosity.
+
+---
+
+## **12. Role of Managers**
+
+Managers must:
+
+* Set clear expectations early.
+* Provide regular recognition and correction.
+* Document performance discussions.
+* Support career development and training opportunities.
+
+Leaders are evaluated not only on results but also on how well they develop their teams.
+
+---
+
+## **13. Employee Responsibilities**
+
+Employees are expected to:
+
+* Take ownership of their growth.
+* Request feedback proactively.
+* Complete required training programs.
+* Be transparent about challenges or blockers.
+
+Performance management works best when employees engage actively rather than passively receiving evaluations.
+
+---
+
+## **14. Talent Review and Succession Planning**
+
+Twice a year, HR and business leaders conduct **Talent Reviews** to identify:
+
+* Top performers for accelerated growth.
+* Successor candidates for key roles.
+* Skill gaps requiring training investment.
+
+Succession planning ensures leadership continuity and mitigates risks of sudden vacancies.
+
+---
+
+## **15. Pay-for-Performance Linkage**
+
+Annual compensation adjustments (merit increases, bonuses) are tied directly to performance ratings.
+Top performers may receive accelerated rewards, while consistent underperformance may limit pay increases.
+
+The company strives to maintain pay equity by reviewing patterns across teams and levels.
+
+---
+
+## **16. Tools and Platforms**
+
+All reviews, ratings, and feedback are documented in the HRIS Performance Management System.
+The system enables employees to set goals, track progress, and view feedback history.
+
+Data from this system also feeds into analytics dashboards that identify trends across teams, helping HR refine policies.
+
+---
+
+## **17. Training and Enablement for Managers**
+
+All managers undergo annual calibration and performance review training covering:
+
+* Avoiding bias and favoritism.
+* Giving actionable feedback.
+* Conducting tough conversations.
+* Linking performance to development outcomes.
+
+---
+
+## **18. Handling Bias and Fairness**
+
+Bias can distort evaluations. Common examples include:
+
+* **Recency Bias:** Overweighting recent events.
+* **Halo Effect:** Assuming good in one area means excellence overall.
+* **Leniency Bias:** Avoiding low ratings to maintain harmony.
+
+HR mitigates bias by:
+
+* Reviewing rating distributions across teams.
+* Conducting calibration sessions.
+* Providing guidelines for objective evaluation.
+
+---
+
+## **19. Appeals and Disputes**
+
+Employees who believe their review was unfair can request a second-level review within 10 business days of receiving feedback.
+HR and a neutral manager will reassess the documentation and outcome.
+Final decisions rest with the HR Director.
+
+---
+
+## **20. Career Path Framework**
+
+Each function maintains defined levels (e.g., Analyst → Senior Analyst → Manager → Director).
+Progression is based on competency mastery, contribution, and potential.
+
+Employees can view career maps on the intranet to understand skill expectations for each level.
+
+---
+
+## **21. Recognition Programs**
+
+High-performing individuals and teams may be recognized through:
+
+* Annual excellence awards.
+* Spot bonuses.
+* Public appreciation in town halls.
+
+Recognition reinforces positive behaviors and motivates others to excel.
+
+---
+
+## **22. Continuous Learning Culture**
+
+The company encourages “growth mindset” behaviors: curiosity, experimentation, and resilience.
+Learning is embedded into work through micro-learning modules, coaching, and cross-team exposure.
+
+Employees can allocate up to 5% of work hours monthly for learning activities.
+
+---
+
+## **23. Confidentiality and Data Privacy**
+
+Performance records, ratings, and feedback are confidential.
+Access is restricted to the employee, their manager, HR, and relevant executives.
+Information may be anonymized for analytics but never disclosed externally.
+
+---
+
+## **24. Policy Review and Improvement**
+
+HR reviews this policy every year, incorporating employee feedback and industry benchmarks.
+Regular surveys measure satisfaction with the review process, and outcomes guide enhancements.
+
+---
+
+## **25. Example Scenarios**
+
+**Scenario 1:**
+A developer consistently exceeds targets and mentors juniors. → Recommended for promotion.
+
+**Scenario 2:**
+A new hire struggles to adapt due to unclear goals. → Manager revises objectives and offers coaching.
+
+**Scenario 3:**
+An employee refuses to participate in reviews. → HR intervenes; completion made mandatory.
+
+**Scenario 4:**
+Two employees in the same role receive different ratings due to inconsistent criteria. → HR recalibrates and retrains managers.
+
+---
+
+## **26. Conclusion**
+
+Performance management is a partnership between employees, managers, and the organization.
+By aligning expectations, providing timely feedback, and supporting development, the company ensures that every individual grows in capability and purpose — turning performance reviews into true career accelerators rather than administrative routines.
+
+---
+
+**End of Document**

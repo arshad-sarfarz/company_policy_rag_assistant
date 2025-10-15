@@ -1,0 +1,262 @@
+# **IT Security & Data Protection Policy**
+
+**Version:** 1.0 | **Effective Date:** January 2025
+**Issued By:** Information Security Office & IT Governance
+
+---
+
+## **1 . Purpose and Overview**
+
+The IT Security & Data Protection Policy defines how the company safeguards its digital and physical information assets. The goal is to protect confidentiality, integrity, and availability of information systems while enabling employees to perform their duties efficiently and securely.
+
+This policy helps employees understand their shared responsibility in defending against cyber-threats, data leaks, and unauthorized access. It sets behavioral expectations, technical standards, and escalation paths for every stage of the information lifecycle—from creation and storage to transmission and disposal.
+
+---
+
+## **2 . Scope**
+
+Applies to:
+
+* All employees, contractors, and temporary workers who access company networks, devices, or data.
+* All company-owned and approved personal devices (BYOD).
+* All information assets, including electronic data, printed materials, and cloud-hosted resources.
+
+Third-party vendors must sign security agreements aligning with this policy before gaining system access.
+
+---
+
+## **3 . Core Principles**
+
+1. **Confidentiality:** Information is accessible only to authorized individuals.
+2. **Integrity:** Data remains complete and unaltered except by authorized actions.
+3. **Availability:** Systems remain reliable and accessible to authorized users.
+4. **Accountability:** Every user is responsible for protecting credentials and data.
+5. **Least Privilege:** Access is limited to the minimum necessary for job functions.
+6. **Defense in Depth:** Multiple layers of security controls reduce risk exposure.
+
+---
+
+## **4 . Roles and Responsibilities**
+
+* **Employees:** Follow security procedures, complete training, report incidents.
+* **Managers:** Ensure team compliance and approve access requests.
+* **IT Security Team:** Maintain security infrastructure, perform monitoring, respond to threats.
+* **HR & Legal:** Coordinate investigations involving policy breaches.
+* **Vendors:** Meet contractual security requirements and notify of breaches immediately.
+
+---
+
+## **5 . Acceptable Use of Technology**
+
+Company systems are business tools. Limited personal use is permitted if it does not interfere with performance or violate policy.
+
+Users **must not**:
+
+* Access offensive, illegal, or inappropriate content.
+* Install unapproved software or browser extensions.
+* Share credentials or allow others to use their accounts.
+* Circumvent security controls (VPN, firewalls, endpoint protection).
+
+Monitoring may occur for compliance and threat-detection purposes.
+
+---
+
+## **6 . Password and Authentication Standards**
+
+* Minimum length: 12 characters, including upper/lowercase, numbers, symbols.
+* Passwords expire every 180 days and cannot repeat the last 5 versions.
+* Multi-Factor Authentication (MFA) is mandatory for all remote and privileged access.
+* Service accounts require rotating secrets stored in the password vault.
+
+Passwords must **never** be written on sticky notes, shared via email, or stored in browsers without encryption.
+
+---
+
+## **7 . Device and Endpoint Security**
+
+### **7 .1 Company Devices**
+
+* Pre-configured with encryption, antivirus, and endpoint monitoring.
+* Users must not disable protective software.
+* Laptops left unattended must be locked or logged out.
+
+### **7 .2 Personal Devices (BYOD)**
+
+* Must enroll in Mobile Device Management (MDM).
+* Require screen-lock + biometric authentication.
+* Company may remotely wipe business data upon loss or termination.
+
+### **7 .3 Removable Media**
+
+USB drives are discouraged. When unavoidable, they must be encrypted and scanned for malware.
+
+---
+
+## **8 . Network and Access Controls**
+
+* All remote connections must use the corporate VPN.
+* Wi-Fi networks require WPA3 encryption.
+* Public Wi-Fi should be avoided unless VPN is active.
+* Access to internal systems follows the **Role-Based Access Control (RBAC)** model.
+* Privileged accounts are reviewed quarterly.
+
+---
+
+## **9 . Data Classification**
+
+Every piece of information falls into one of four categories:
+
+1. **Public:** Information approved for public release.
+2. **Internal:** For general internal use, minimal impact if disclosed.
+3. **Confidential:** Restricted business data requiring authorization.
+4. **Highly Confidential:** Sensitive data (financial, personal, legal) protected by law.
+
+Labels must appear in email headers, document footers, or metadata fields.
+
+---
+
+## **10 . Data Handling and Storage**
+
+* Store data only on company-approved servers or cloud repositories.
+* Encrypt all Confidential and Highly Confidential data at rest and in transit.
+* Physical files must be kept in locked cabinets with limited access.
+* Backups are taken daily and retained per the Data Retention Schedule.
+
+Never transfer corporate data to personal email or consumer cloud accounts.
+
+---
+
+## **11 . Email and Messaging Security**
+
+Phishing remains the leading threat vector.
+
+* Always verify sender identity before clicking links or attachments.
+* Report suspicious emails using the “Report Phish” button or to security@company.
+* Sensitive data should only be shared via encrypted channels.
+
+Instant-messaging platforms approved for business must enforce retention and audit logs.
+
+---
+
+## **12 . Cloud and Application Security**
+
+* Only IT-approved SaaS or cloud services may store company data.
+* All cloud accounts require MFA and centralized identity management.
+* Application owners must complete a security risk assessment before onboarding new software.
+
+---
+
+## **13 . Data Retention and Disposal**
+
+* Retain data only as long as legally or operationally required.
+* When data expires, delete securely using certified wiping tools or shredding.
+* Backup copies follow the same destruction schedule.
+
+Employees must never discard printed records in normal trash bins.
+
+---
+
+## **14 . Incident Reporting and Response**
+
+### **14 .1 Definition**
+
+An incident is any event that compromises or threatens information security — e.g., malware infection, phishing success, data leak, lost device, or unauthorized access.
+
+### **14 .2 Immediate Actions**
+
+1. Disconnect affected devices from the network.
+2. Notify IT Security via hotline or incident form.
+3. Do not delete files or alter logs.
+
+### **14 .3 Response Process**
+
+The Security Operations Center (SOC) analyzes events, contains threats, eradicates malware, and recovers systems.
+Post-incident reviews capture lessons learned and required control improvements.
+
+---
+
+## **15 . Third-Party Risk Management**
+
+Before sharing data with external partners:
+
+* Verify they meet equivalent security controls.
+* Sign a Data Processing Agreement (DPA).
+* Conduct periodic audits or request compliance certifications (e.g., ISO 27001, SOC 2).
+
+Vendors failing to meet obligations may lose access or contracts.
+
+---
+
+## **16 . Physical Security**
+
+* Access to server rooms and data centers is restricted via key-cards and logs.
+* Visitors require escort and badge.
+* Hardware leaving premises must have written authorization.
+
+---
+
+## **17 . Training and Awareness**
+
+All employees must complete annual cybersecurity training. Topics include phishing prevention, password hygiene, and safe remote working. New hires complete induction modules within 30 days.
+
+Regular simulated phishing campaigns reinforce awareness.
+
+---
+
+## **18 . Privacy and Legal Compliance**
+
+The company complies with global privacy laws such as GDPR, UK DPA, and CCPA. Personal Data must be:
+
+1. Collected lawfully and for specific purposes.
+2. Accurate and kept up to date.
+3. Protected against unauthorized processing or loss.
+
+Data Subjects have rights to access, rectify, or erase their data.
+
+---
+
+## **19 . Auditing and Monitoring**
+
+IT Security performs continuous monitoring of systems for anomalies. Audit logs are retained for 12 months minimum.
+Periodic penetration tests and vulnerability scans evaluate controls.
+
+---
+
+## **20 . Enforcement and Disciplinary Action**
+
+Non-compliance — including data leaks, credential sharing, or policy breaches — may lead to disciplinary measures up to termination and legal penalties.
+Managers are responsible for escalating violations to Security and HR.
+
+---
+
+## **21 . Business Continuity and Disaster Recovery**
+
+IT maintains tested plans to recover critical systems within defined Recovery Time Objectives (RTOs). Employees must store project data on approved platforms to ensure restoration.
+
+Annual BCP drills validate resilience and communication protocols.
+
+---
+
+## **22 . Common Scenarios and Best Practices**
+
+**Scenario 1:** A laptop is stolen from a train. → Report immediately; IT will remote-wipe and investigate.
+**Scenario 2:** You receive a suspicious email from “CEO”. → Do not click links; report phish.
+**Scenario 3:** Vendor requests data dump via personal email. → Decline and escalate to Security.
+**Scenario 4:** Colleague asks for shared password. → Refuse; use proper access controls.
+**Scenario 5:** Public conference talk mentions confidential project. → Stop and consult Communications.
+
+---
+
+## **23 . Review and Revision**
+
+This policy is reviewed annually by IT Governance and approved by the Executive Risk Committee. Updates are published on the intranet and communicated via email.
+
+---
+
+## **24 . Conclusion**
+
+Information security is everyone’s responsibility. Technology controls alone cannot protect the organization without user vigilance and ethical behavior. Every employee is a front-line defender of our data and reputation. By following this policy and practicing constant awareness, we collectively ensure the security of our clients, colleagues, and business operations.
+
+---
+
+**End of Document**
