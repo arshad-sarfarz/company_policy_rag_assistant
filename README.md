@@ -1,6 +1,7 @@
 # 🧠 Company Policy RAG Assistant
 
-The **Company Policy RAG (Retrieval-Augmented Generation) Assistant** Assistant is an intelligent AI-powered tool designed to help employees quickly find information from company policies across multiple domains such as HR, IT, Security, and Operations. It uses a Retrieval-Augmented Generation pipeline to deliver precise, contextually relevant answers drawn directly from approved policy documents.
+The **Company Policy RAG (Retrieval-Augmented Generation) Assistant** is an intelligent AI-powered tool designed to help employees quickly find information from company policies across multiple domains such as HR, IT, Security, and Operations. It uses a Retrieval-Augmented Generation pipeline to deliver precise, contextually relevant answers drawn directly from approved policy documents.
+
 ---
 
 ## 🚀 Features
