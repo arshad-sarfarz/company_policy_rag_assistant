@@ -1,0 +1,931 @@
+TECHCORP SOLUTIONS INC.
+TIME OFF & LEAVE POLICY
+Effective Date: January 1, 2024
+Document Version: 4.1
+Last Updated: January 2024
+
+================================================================================
+TABLE OF CONTENTS
+================================================================================
+
+1. Policy Overview and Philosophy
+2. Paid Time Off (PTO)
+3. Holiday Schedule
+4. Sick Leave
+5. Parental Leave
+6. Bereavement Leave
+7. Jury Duty and Civic Leave
+8. Military Leave
+9. Leave of Absence (Unpaid)
+10. Sabbatical Leave
+11. Request and Approval Process
+12. Frequently Asked Questions
+
+================================================================================
+1. POLICY OVERVIEW AND PHILOSOPHY
+================================================================================
+
+At TechCorp Solutions, we believe that time away from work is essential for maintaining physical health, mental wellbeing, and work-life balance. This policy outlines the various types of leave available to our employees and the procedures for requesting and using time off.
+
+Our Guiding Principles:
+- Employees should use their allotted time off to rest and recharge
+- Taking time off is encouraged and supported by management
+- Adequate advance notice allows for proper coverage and planning
+- All leave requests are treated fairly and consistently
+- We trust employees to use leave responsibly and honestly
+
+This policy applies to all regular full-time and part-time employees of TechCorp Solutions. Temporary, contract, and intern positions have separate leave arrangements detailed in their employment agreements.
+
+================================================================================
+2. PAID TIME OFF (PTO)
+================================================================================
+
+2.1 PTO PHILOSOPHY
+
+TechCorp uses a combined PTO approach where vacation, personal days, and short-term illness are drawn from a single PTO bank. This provides flexibility for employees to use their time off as needed without categorizing each absence.
+
+2.2 PTO ACCRUAL RATES
+
+Full-Time Employees (40 hours/week):
+
+Years of Service | Annual PTO Days | Per Pay Period Accrual
+0-2 years        | 15 days (120 hrs) | 4.62 hours
+3-5 years        | 20 days (160 hrs) | 6.15 hours
+6-10 years       | 25 days (200 hrs) | 7.69 hours
+11+ years        | 30 days (240 hrs) | 9.23 hours
+
+Part-Time Employees:
+PTO is prorated based on scheduled hours. For example, an employee working 20 hours/week receives 50% of the full-time PTO allotment.
+
+2.3 PTO ACCRUAL DETAILS
+
+- PTO begins accruing from your first day of employment
+- Accruals are calculated per pay period (bi-weekly)
+- You can use PTO after completing 90 days of employment
+- PTO accrued during the first 90 days becomes available on day 91
+- Unused PTO rolls over annually up to a maximum cap
+
+2.4 PTO MAXIMUM CAPS
+
+To encourage regular time off usage, we cap PTO accumulation:
+
+- 0-2 years service: Maximum 180 hours (22.5 days)
+- 3-5 years service: Maximum 240 hours (30 days)
+- 6-10 years service: Maximum 300 hours (37.5 days)
+- 11+ years service: Maximum 360 hours (45 days)
+
+Once you reach your cap, you stop accruing PTO until you use some time off. You will receive a notification when you reach 80% of your cap.
+
+2.5 PTO USAGE GUIDELINES
+
+Minimum Increment: PTO can be used in 4-hour increments (half-day) or greater.
+
+Advance Notice Requirements:
+- 1-3 days off: Request at least 1 week in advance
+- 4-7 days off: Request at least 2 weeks in advance
+- 8+ days off: Request at least 4 weeks in advance
+- Last-minute illness: Notify manager as soon as possible, no later than 1 hour after shift start
+
+Blackout Periods:
+Certain departments may have blackout periods during critical business times. Your manager will communicate these at least 60 days in advance. Examples:
+- Finance: Month-end close periods
+- Retail: Holiday shopping season
+- Tax: January-April 15
+- Software: Major release weeks
+
+2.6 PTO SCHEDULING AND APPROVAL
+
+Requesting PTO:
+1. Check team calendar for existing PTO and coverage
+2. Discuss with your manager informally if unsure about timing
+3. Submit formal request in BambooHR at least by minimum notice period
+4. Manager will approve or deny within 3 business days
+5. Add approved PTO to team calendar
+
+Managers will consider:
+- Adequate advance notice
+- Business needs and coverage requirements
+- Previous commitments and deadlines
+- Other team members' scheduled PTO
+- First-come, first-served when possible
+
+Denial Reasons:
+PTO may be denied if:
+- Insufficient advance notice (except emergencies)
+- Inadequate coverage for critical functions
+- During blackout periods
+- Too many team members off simultaneously
+- Critical project deadlines or client commitments
+
+If denied, your manager must provide reason and work with you to find alternative dates.
+
+2.7 PTO DURING HOLIDAYS
+
+When a company holiday falls during your PTO:
+- You are NOT charged PTO for the holiday
+- Example: You take PTO Monday-Friday, and Monday is a company holiday. You are only charged for Tuesday-Friday (4 days, not 5 days)
+
+2.8 PTO PAYOUT PROVISIONS
+
+Upon Termination:
+- Voluntary resignation with 2+ weeks notice: All accrued PTO paid out
+- Voluntary resignation without notice: PTO paid at company discretion
+- Involuntary termination for cause: No PTO payout
+- Involuntary termination without cause: All accrued PTO paid out
+- Retirement: All accrued PTO paid out
+
+During Employment:
+- TechCorp does not offer cash-out of PTO while actively employed
+- Exception: If PTO bank exceeds maximum cap due to system error, excess may be paid out
+
+2.9 NEGATIVE PTO BALANCE
+
+TechCorp does not permit negative PTO balances. If you have not accrued sufficient PTO for your requested time off:
+- Wait until you accrue enough PTO
+- Request unpaid leave instead
+- Discuss flexible arrangements with your manager
+
+================================================================================
+3. HOLIDAY SCHEDULE
+================================================================================
+
+3.1 OBSERVED HOLIDAYS
+
+TechCorp observes the following 11 paid holidays annually:
+
+Fixed Holidays:
+- New Year's Day (January 1)
+- Memorial Day (Last Monday in May)
+- Independence Day (July 4)
+- Labor Day (First Monday in September)
+- Thanksgiving Day (Fourth Thursday in November)
+- Day After Thanksgiving (Fourth Friday in November)
+- Christmas Eve (December 24)
+- Christmas Day (December 25)
+
+Floating Holidays (3 days - use by December 31 each year):
+- Employees choose any 3 days for religious, cultural, or personal observance
+- Must request at least 1 week in advance
+- Same approval process as PTO
+- Do not roll over to next year
+
+3.2 HOLIDAY FALLING ON WEEKEND
+
+If a holiday falls on:
+- Saturday: Observed on Friday before
+- Sunday: Observed on Monday after
+
+3.3 HOLIDAY PAY ELIGIBILITY
+
+To receive holiday pay, you must:
+- Be a regular full-time or part-time employee
+- Work your scheduled shift before and after the holiday (unless approved PTO)
+- Not be on unpaid leave of absence
+
+3.4 WORKING ON A HOLIDAY
+
+Non-Exempt Employees:
+- If required to work, receive regular pay for hours worked
+- Plus receive holiday pay (effectively double pay)
+- Or can take a floating day off within 30 days
+
+Exempt Employees:
+- Rare situations requiring holiday work
+- Can take a floating day off within 30 days
+- Or receive additional PTO day credited to bank
+
+3.5 PART-TIME HOLIDAY PAY
+
+Part-time employees receive holiday pay prorated based on scheduled hours:
+- Example: Scheduled 20 hours/week = 4 hours holiday pay
+- Example: Scheduled 30 hours/week = 6 hours holiday pay
+
+================================================================================
+4. SICK LEAVE
+================================================================================
+
+4.1 SICK LEAVE PHILOSOPHY
+
+While sick time comes from your PTO bank, we want employees to prioritize health and not feel pressured to work while ill. Short-term illness (1-3 days) should be covered by PTO without guilt or excessive documentation.
+
+4.2 WHEN TO USE SICK LEAVE
+
+Appropriate uses:
+- Personal illness or injury
+- Medical appointments (doctor, dentist, therapy)
+- Mental health days
+- Caring for sick family member (child, spouse, parent)
+- Preventive care appointments
+
+We trust employees to use sick leave appropriately and not abuse the policy.
+
+4.3 CALLING IN SICK
+
+Same-Day Illness Procedure:
+1. Notify your manager via phone, text, or Teams as soon as possible
+2. Notify before or within 1 hour of your normal start time
+3. Email is not sufficient for same-day notification (unless manager is unavailable)
+4. Provide estimated return date if known
+5. Submit PTO request in BambooHR when you return
+
+What to communicate:
+- "I'm not feeling well and need to take a sick day today"
+- You do not need to provide detailed medical information
+- Indicate if you'll be checking email/messages or fully unplugged
+
+4.4 MEDICAL DOCUMENTATION
+
+Generally not required for short-term illness (1-3 days).
+
+Documentation required for:
+- Absences longer than 3 consecutive days
+- Patterns of absence (frequent Mondays/Fridays)
+- Request for accommodation
+- Return to work after extended illness
+
+Acceptable documentation:
+- Doctor's note on letterhead
+- Clinic visit summary
+- Hospital discharge paperwork
+- Note must include: Date of visit, general reason for absence, fitness to return to work
+
+4.5 EXTENDED ILLNESS
+
+If illness extends beyond 5 consecutive days:
+- Contact HR to discuss Short-Term Disability benefits
+- May need to transition to FMLA leave (see section 9)
+- Keep manager and HR updated on recovery and return date
+- Doctor's clearance required before returning to work
+
+4.6 CONTAGIOUS ILLNESS
+
+If you have a contagious condition (flu, COVID-19, strep throat, etc.):
+- Stay home until fever-free for 24 hours without medication
+- Follow CDC guidelines for return to work
+- Notify your manager if you may have exposed coworkers
+- We may ask exposed employees to work remotely temporarily
+
+4.7 MENTAL HEALTH DAYS
+
+Mental health is just as important as physical health. You may use PTO for mental health days:
+- No need to specify "mental health day" vs. "sick day"
+- Simply say "I need to take a personal health day"
+- Access Employee Assistance Program (EAP) for support: 1-800-XXX-XXXX
+
+================================================================================
+5. PARENTAL LEAVE
+================================================================================
+
+5.1 PARENTAL LEAVE PHILOSOPHY
+
+TechCorp supports employees during the exciting and challenging time of welcoming a new child to their family. We offer generous parental leave to bond with your new child and adjust to your growing family.
+
+5.2 ELIGIBILITY
+
+Available to all regular full-time employees who have completed at least 90 days of employment before the birth or adoption.
+
+Qualifying events:
+- Birth of a biological child
+- Adoption of a child (any age)
+- Foster care placement with intent to adopt
+
+5.3 PARENTAL LEAVE ALLOWANCES
+
+Primary Caregiver (typically birth mother or primary adoptive parent):
+- 16 weeks (320 hours) of paid parental leave
+- Must be used within 12 months of birth/placement
+- Can be taken consecutively or intermittently with manager approval
+
+Secondary Caregiver (typically non-birth parent):
+- 8 weeks (160 hours) of paid parental leave
+- Must be used within 12 months of birth/placement
+- Can be taken consecutively or intermittently with manager approval
+
+Multiple Births/Adoptions:
+- Same leave entitlement regardless of number of children
+- Example: Twins = same 16 or 8 weeks, not doubled
+
+5.4 PARENTAL LEAVE PAY
+
+- 100% of base salary for entire leave period
+- Benefits continue during parental leave
+- PTO continues to accrue during parental leave
+- Does not count against PTO bank
+- Performance reviews and raises not affected by parental leave
+
+5.5 NOTIFICATION AND PLANNING
+
+Expected Timeline:
+- As soon as possible: Inform manager of pregnancy/adoption (informally)
+- 12 weeks before due date/placement: Submit formal parental leave request
+- 4 weeks before leave: Finalize coverage plan and out-of-office arrangements
+- 2 weeks before return: Confirm return date with manager and HR
+
+Required Documentation:
+- Medical certification of pregnancy/due date, or
+- Adoption papers or foster placement documentation
+- Submit to HR confidentially
+
+5.6 LEAVE SCHEDULING
+
+Consecutive Leave:
+- Most common approach
+- Take all 16/8 weeks continuously after birth/placement
+- Must return on agreed date or request extension
+
+Intermittent Leave:
+- Use leave in separate blocks (e.g., 8 weeks now, 8 weeks later)
+- Requires manager approval
+- Must be used within 12 months of birth/placement
+- Minimum block: 1 week
+
+Reduced Schedule:
+- Return part-time for transition period
+- Example: Work 3 days/week for 8 weeks = uses 2 weeks of leave
+- Requires manager approval
+- Prorated leave deduction based on hours worked
+
+5.7 EXTENDING PARENTAL LEAVE
+
+Options to extend beyond standard 16/8 weeks:
+- Use accrued PTO
+- Request unpaid leave of absence (see section 9)
+- Explore FMLA if eligible (12 weeks total, parental leave counts toward this)
+- Short-term disability may provide additional paid time for birth mothers
+
+5.8 RETURN TO WORK
+
+Guaranteed return:
+- Same position or equivalent role
+- Same salary and benefits
+- Same supervisor (unless org changes occurred)
+- No penalty or negative impact on career progression
+
+Lactation Support:
+- Private, clean room (not bathroom) for nursing/pumping
+- Reasonable break times (typically 20-30 minutes, 2-3 times per day)
+- Access to refrigerator for breast milk storage
+- Lactation room locations: Building A-Room 150, Building B-Room 220
+
+Gradual Return Options:
+- Discuss with manager if you need gradual transition
+- May work reduced hours for first 2-4 weeks
+- May work remotely for transition period
+
+5.9 PARENTAL LEAVE DURING PROBATION
+
+New employees expecting child within first 90 days:
+- Disclose during interview/offer stage if possible
+- Leave may be unpaid or partially paid (case-by-case)
+- Position held, but standard 90-day probation extends by leave duration
+
+================================================================================
+6. BEREAVEMENT LEAVE
+================================================================================
+
+6.1 BEREAVEMENT LEAVE POLICY
+
+TechCorp provides paid bereavement leave to allow employees time to grieve and attend to matters following the death of a family member.
+
+6.2 LEAVE ALLOWANCE
+
+Immediate Family (Spouse, Child, Parent, Sibling):
+- 5 days (40 hours) paid bereavement leave
+- Can be extended with PTO or unpaid leave if needed
+
+Extended Family (Grandparent, Grandchild, In-Laws, Aunt, Uncle):
+- 3 days (24 hours) paid bereavement leave
+- Can be extended with PTO if needed
+
+Other Significant Persons:
+- 1 day (8 hours) paid bereavement leave
+- Close friends, roommates, or other significant relationships
+- Manager discretion for additional PTO approval
+
+6.3 USING BEREAVEMENT LEAVE
+
+Timing:
+- Must be used within 30 days of death
+- Can be taken consecutively or split (e.g., 2 days for funeral, 3 days later for estate matters)
+- Travel time for out-of-state funerals included
+
+Notification:
+- Notify manager as soon as possible
+- No advance notice required given nature of leave
+- Submit bereavement leave request when you return
+
+Documentation:
+- Generally not required
+- May request obituary, funeral program, or death certificate for extended absences
+- Handle sensitively and confidentially
+
+6.4 ADDITIONAL SUPPORT
+
+Employees experiencing grief may also:
+- Access Employee Assistance Program (EAP) for counseling: 1-800-XXX-XXXX
+- Request temporary flexible schedule or remote work
+- Discuss extended leave if needed
+- Take PTO for additional time
+
+Managers should:
+- Express condolences and offer support
+- Be flexible with workload and deadlines
+- Check in regularly upon return
+- Understand grief affects people differently
+
+================================================================================
+7. JURY DUTY AND CIVIC LEAVE
+================================================================================
+
+7.1 JURY DUTY LEAVE
+
+TechCorp supports employees' civic duty to serve on juries.
+
+Pay During Jury Duty:
+- Full pay for up to 2 weeks of jury service
+- After 2 weeks: Unpaid leave or use PTO
+- Must submit jury duty notice to HR
+
+Requirements:
+- Provide copy of jury summons as soon as received
+- Keep manager updated on service duration
+- Return to work if dismissed early in the day (after 12 PM, may take rest of day off)
+- Submit proof of service upon completion
+
+Jury Duty Pay from Court:
+- You may keep any compensation received from the court
+- TechCorp does not deduct court pay from your salary
+
+7.2 VOTING LEAVE
+
+TechCorp encourages all employees to exercise their right to vote.
+
+Election Day Policy:
+- Polls typically open early/close late to accommodate work schedules
+- If your work schedule prevents voting: Up to 2 hours paid leave to vote
+- Must request in advance
+- Provide voting schedule to supervisor
+
+Preferred approach: Vote before work, during lunch, or after work if possible.
+
+7.3 VOLUNTEER AND COMMUNITY SERVICE
+
+TechCorp supports community involvement:
+- 16 hours (2 days) per year for volunteer activities
+- Must be with registered nonprofit organizations
+- Requires manager approval in advance
+- Submit volunteer verification form afterward
+
+Approved volunteer activities:
+- Community service projects
+- Charity events
+- School volunteering (reading programs, career days)
+- Habitat for Humanity, food banks, etc.
+
+Company-Organized Volunteer Days:
+- Additional paid time for company-sponsored volunteer events
+- Does not count against your 16-hour allowance
+
+================================================================================
+8. MILITARY LEAVE
+================================================================================
+
+8.1 MILITARY LEAVE POLICY
+
+TechCorp complies with the Uniformed Services Employment and Reemployment Rights Act (USERRA) and provides leave for military service.
+
+8.2 TYPES OF MILITARY LEAVE
+
+Active Duty:
+- Unpaid leave for duration of service
+- Benefits continuation options available
+- Guaranteed reemployment upon return (per USERRA)
+
+Reserve/National Guard Training:
+- Up to 2 weeks per year paid military leave
+- Beyond 2 weeks: Unpaid or use PTO
+- Must provide copy of orders
+
+8.3 NOTIFICATION REQUIREMENTS
+
+- Provide as much advance notice as possible
+- Submit copy of military orders to HR
+- Notify HR of expected return date
+- Provide 30 days notice for training when possible
+
+8.4 PAY DIFFERENTIAL
+
+For paid military leave period (up to 2 weeks):
+- If military pay is less than TechCorp salary: TechCorp pays the difference
+- If military pay exceeds TechCorp salary: No additional pay from TechCorp
+- Submit military pay documentation to HR
+
+8.5 BENEFITS DURING MILITARY LEAVE
+
+Short-term leave (less than 30 days):
+- Benefits continue at employee cost-share
+- PTO continues to accrue
+
+Extended leave (more than 30 days):
+- Option to continue benefits under COBRA
+- PTO accrual pauses
+- Service time counts toward seniority
+
+8.6 REEMPLOYMENT RIGHTS
+
+Upon return from military service:
+- Reemployed in same or comparable position
+- Salary adjusted for any raises given during absence
+- Seniority and benefits restored
+- No penalty for military service
+
+Application for reemployment must be made within:
+- Service less than 31 days: Next scheduled workday
+- Service 31-180 days: Within 14 days of completion
+- Service 181+ days: Within 90 days of completion
+
+================================================================================
+9. LEAVE OF ABSENCE (UNPAID)
+================================================================================
+
+9.1 PERSONAL LEAVE OF ABSENCE
+
+Employees may request unpaid personal leave for reasons not covered by other leave policies.
+
+Eligibility:
+- Must have completed 1 year of employment
+- Good performance record
+- All PTO exhausted or preserved for return
+
+Duration:
+- Minimum: 1 week
+- Maximum: 12 weeks per year
+- Extensions considered case-by-case
+
+Common Reasons:
+- Extended travel
+- Personal matters
+- Family obligations
+- Educational pursuits
+- Sabbatical transition (before meeting sabbatical eligibility)
+
+9.2 REQUEST PROCESS
+
+Timeline:
+- Submit request at least 30 days in advance
+- Complete Leave of Absence Request Form (HR-LOA-001)
+- Include: Reason, duration, expected return date
+- HR will review and respond within 10 business days
+
+Approval Factors:
+- Business needs and coverage
+- Length of service
+- Performance history
+- Nature of request
+- Impact on team and projects
+
+9.3 BENEFITS DURING UNPAID LEAVE
+
+Pay and PTO:
+- No pay during leave period
+- PTO does not accrue
+- Cannot use PTO during unpaid leave (must be exhausted before leave starts)
+
+Health Benefits:
+- Coverage continues for up to 30 days at employee cost
+- After 30 days: Option to continue under COBRA at full cost
+- Must make arrangements with HR before leave starts
+
+Other Benefits:
+- 401(k): No contributions during unpaid leave
+- Life Insurance: Coverage continues if premiums paid
+- Disability: No coverage during unpaid leave
+
+9.4 RETURN FROM LEAVE
+
+Guaranteed Return:
+- Same position or comparable role if available
+- No guarantee if organizational changes occurred
+- Seniority date adjusted for unpaid leave duration
+
+Return Notification:
+- Confirm return date 2 weeks before leave ends
+- If unable to return as planned, contact HR immediately
+- Failure to return on agreed date may be considered voluntary resignation
+
+9.5 FAMILY AND MEDICAL LEAVE ACT (FMLA)
+
+Eligible employees may qualify for protected unpaid leave under FMLA:
+
+Eligibility:
+- Worked for TechCorp at least 12 months
+- Worked at least 1,250 hours in past 12 months
+- Work at location with 50+ employees within 75 miles
+
+Qualifying Reasons:
+- Birth or adoption of child
+- Care for spouse, child, or parent with serious health condition
+- Employee's own serious health condition
+- Military family leave (care for injured service member)
+
+FMLA Provisions:
+- Up to 12 weeks unpaid leave in 12-month period
+- Job protection (return to same or equivalent position)
+- Benefits continue during leave
+- Can be taken continuously or intermittently
+
+FMLA runs concurrently with:
+- Parental leave (paid parental leave counts toward FMLA 12 weeks)
+- Sick leave (extended illness)
+- Personal leave of absence
+
+Contact HR to discuss FMLA eligibility and process.
+
+9.6 SHORT-TERM DISABILITY
+
+For medical conditions preventing work:
+
+Eligibility:
+- All full-time employees after 90 days
+- Medical certification required
+
+Coverage:
+- 60% of base salary
+- Maximum duration: 26 weeks
+- 7-day waiting period (use PTO for this period)
+
+Process:
+- File claim with disability insurance provider
+- Provide medical documentation
+- HR will coordinate with insurance company
+
+Short-term disability may run concurrently with FMLA.
+
+9.7 LONG-TERM DISABILITY
+
+For disabilities extending beyond 26 weeks:
+
+Coverage:
+- 60% of base salary
+- Begins after short-term disability ends
+- Maximum duration: Until age 65 or recovery
+
+Process:
+- Insurance company determines eligibility
+- Ongoing medical documentation required
+- May require independent medical examination
+
+================================================================================
+10. SABBATICAL LEAVE
+================================================================================
+
+10.1 SABBATICAL PROGRAM
+
+TechCorp offers sabbatical leave to long-tenured employees for rest, personal development, and rejuvenation.
+
+10.2 ELIGIBILITY
+
+- Completed 7 years of continuous service
+- Good performance record (meets or exceeds expectations)
+- No disciplinary issues in past 2 years
+- Not taken sabbatical in past 7 years
+
+10.3 SABBATICAL TERMS
+
+Duration and Pay:
+- 4 weeks (160 hours) paid sabbatical
+- 100% of base salary
+- All benefits continue
+- PTO continues to accrue
+
+Usage:
+- Must be taken consecutively (no splitting)
+- Must be used within 1 year of eligibility
+- Cannot be carried over or cashed out
+- Separate from PTO bank
+
+10.4 SABBATICAL REQUEST PROCESS
+
+Timeline:
+- Submit request 6 months in advance
+- Complete Sabbatical Leave Application (HR-SAB-001)
+- Include proposed dates and coverage plan
+
+Approval Process:
+- Manager reviews and approves
+- Director approves
+- HR confirms eligibility
+- Final approval within 30 days
+
+Planning Requirements:
+- Develop transition plan for responsibilities
+- Train backup coverage
+- Document ongoing projects and status
+- Create out-of-office communications
+
+10.5 SABBATICAL EXPECTATIONS
+
+Before Sabbatical:
+- Complete all critical projects or hand off properly
+- Document procedures and pending items
+- Set up auto-responders and out-of-office messages
+- Attend pre-sabbatical meeting with manager
+
+During Sabbatical:
+- Fully disconnect from work (no email, calls, projects)
+- Do not access company systems except in true emergency
+- Focus on rest, travel, learning, or personal goals
+- Company will not contact you except in emergency
+
+After Sabbatical:
+- Return on agreed date
+- Attend re-entry meeting with manager
+- Optional: Share sabbatical experience with team (presentation, lunch talk)
+- Complete brief sabbatical feedback survey
+
+10.6 COMMITMENT AFTER SABBATICAL
+
+Employees taking sabbatical agree to:
+- Return to TechCorp for minimum 1 year after sabbatical
+- If you voluntarily leave within 1 year, must reimburse sabbatical pay (prorated)
+- Example: Leave after 6 months = reimburse 50% of sabbatical pay
+- Does not apply if involuntarily terminated
+
+================================================================================
+11. REQUEST AND APPROVAL PROCESS
+================================================================================
+
+11.1 HOW TO REQUEST TIME OFF
+
+Step-by-Step Process:
+
+1. Check Coverage and Blackout Dates
+   - Review team calendar
+   - Verify not during blackout period
+   - Ensure adequate team coverage
+
+2. Informal Discussion (Optional but Recommended)
+   - Talk to manager about timing
+   - Confirm coverage plan
+   - Discuss any concerns
+
+3. Submit Formal Request
+   - Log into BambooHR
+   - Select "Request Time Off"
+   - Choose leave type (PTO, Floating Holiday, etc.)
+   - Enter dates and hours
+   - Add notes if helpful (optional)
+   - Submit request
+
+4. Manager Review
+   - Manager receives notification
+   - Reviews request against guidelines
+   - Approves or denies within 3 business days
+   - If denied, provides reason and works with you on alternatives
+
+5. Confirmation
+   - You receive email notification of approval/denial
+   - Add to team calendar
+   - Set up out-of-office if extended absence
+   - Arrange coverage if needed
+
+6. Day Before Leave
+   - Confirm coverage arrangements
+   - Update Teams status
+   - Set email auto-responder
+   - Complete or hand off urgent items
+
+11.2 EMERGENCY/LAST-MINUTE REQUESTS
+
+For unexpected illness, family emergency, or unforeseen circumstances:
+
+1. Notify manager ASAP
+   - Call or text (email not sufficient for same-day)
+   - Within 1 hour of shift start
+   - Provide estimated duration if known
+
+2. Submit request in BambooHR when able
+   - Same day or when you return
+   - Manager will approve given circumstances
+
+3. Follow up
+   - Keep manager updated on return date
+   - Provide documentation if required (medical note for extended absence)
+
+11.3 CANCELING TIME OFF
+
+If you need to cancel approved time off:
+- Notify manager as soon as possible
+- Cancel request in BambooHR
+- PTO hours return to your bank
+- Update team calendar
+
+11.4 COVERAGE PLANNING
+
+For absences longer than 2 days:
+
+Create Coverage Plan Including:
+- List of ongoing projects and status
+- Pending deadlines and deliverables
+- Key contacts and stakeholders
+- Coverage person for each responsibility
+- Location of important documents/files
+- Instructions for urgent matters
+
+Share with:
+- Your manager
+- Coverage person(s)
+- Team members affected
+
+11.5 OUT-OF-OFFICE COMMUNICATIONS
+
+Email Auto-Responder:
+"I am out of the office from [start date] to [end date] with limited access to email. I will respond to your message when I return on [return date]. For urgent matters, please contact [coverage name] at [email] or [phone]."
+
+Teams Status:
+- Set to "Out of Office" or "On Vacation"
+- Include return date
+- Redirect urgent messages to coverage person
+
+Voicemail:
+- Update voicemail greeting with absence dates
+- Provide alternative contact
+
+Slack/Other Platforms:
+- Update status across all communication tools
+- Set to Do Not Disturb if applicable
+
+================================================================================
+12. FREQUENTLY ASKED QUESTIONS
+================================================================================
+
+Q: Can I take PTO during my first 90 days?
+A: PTO accrues from day one, but cannot be used until after 90 days of employment. All accrued PTO becomes available on day 91.
+
+Q: What happens to unused PTO at year-end?
+A: PTO rolls over to the next year up to the maximum cap for your service level. Once you hit the cap, you stop accruing until you use some PTO.
+
+Q: Can I donate PTO to a coworker in need?
+A: Currently, TechCorp does not have a PTO donation program, but we are exploring this option for future implementation.
+
+Q: What if I'm sick and out of PTO?
+A: Contact HR to discuss options, which may include short-term unpaid leave or advancing future PTO accruals in extreme circumstances.
+
+Q: Can I take PTO in half-day increments?
+A: Yes, minimum increment is 4 hours (half-day). You can take morning off (4 hours) or afternoon off (4 hours).
+
+Q: Do I have to take PTO for doctor appointments?
+A: Yes, appointments during work hours require using PTO. However, we encourage flexible scheduling (come in early, stay late) to minimize PTO usage for short appointments.
+
+Q: What if a family member has a serious health condition requiring ongoing care?
+A: This may qualify for FMLA intermittent leave. Contact HR to discuss your situation and available options.
+
+Q: Can I work remotely instead of using PTO for a minor illness?
+A: If you're well enough to work productively and your role allows remote work, discuss with your manager. However, prioritize your health and recovery.
+
+Q: What if I need time off for religious observances not covered by floating holidays?
+A: You can use floating holidays or PTO for religious observances. If you need additional time, discuss with your manager and HR for possible accommodation.
+
+Q: Can I schedule PTO during my notice period if I'm resigning?
+A: Generally no. Notice period is for transition and knowledge transfer. Exceptions rare and require VP approval.
+
+Q: What if my manager denies my PTO request?
+A: Your manager should provide a reason and work with you to find alternative dates. If you feel the denial is unfair, you can escalate to HR or your manager's supervisor.
+
+Q: How is PTO calculated if I'm promoted or change to/from part-time?
+A: PTO accrual rate adjusts effective the date of your status change. If moving from part-time to full-time, your accrual rate increases going forward. Existing PTO balance remains unchanged.
+
+Q: Can I use PTO while on leave of absence?
+A: No, PTO and unpaid leave are separate. You must exhaust PTO before starting unpaid leave (except for specific circumstances like FMLA).
+
+Q: What if I want to take extended time off (more than 2 weeks)?
+A: Discuss with your manager well in advance (2-3 months minimum). Depending on duration, this may require unpaid leave in addition to PTO. Sabbatical may be option if eligible.
+
+Q: Do contractors or temporary employees get PTO?
+A: No, PTO is for regular full-time and part-time employees only. Contract terms specify any time-off arrangements.
+
+================================================================================
+POLICY ACKNOWLEDGMENT
+================================================================================
+
+All employees must acknowledge they have read and understood this Time Off & Leave Policy.
+
+Failure to comply with request procedures or misuse of leave may result in:
+- Denial of future time-off requests
+- Disciplinary action
+- Termination of employment in severe cases
+
+For questions about this policy, contact:
+- Your direct manager for general PTO questions
+- HR Department: hr@techcorp.com or (555) 123-4500
+- Benefits Team: benefits@techcorp.com for questions about disability or FMLA
+
+This policy is subject to change. Employees will be notified of updates and must review revised policy within 10 days.
+
+Document Control:
+Policy Owner: Chief Human Resources Officer
+Review Cycle: Annual
+Next Review Date: January 2025
+Document ID: POL-HR-TO-2024-v4.1
+
+END OF DOCUMENT

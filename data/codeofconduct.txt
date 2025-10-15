@@ -1,0 +1,1335 @@
+TECHCORP SOLUTIONS INC.
+EMPLOYEE CODE OF CONDUCT & ETHICS POLICY
+Effective Date: January 1, 2024
+Document Version: 2.8
+Last Updated: January 2024
+
+================================================================================
+TABLE OF CONTENTS
+================================================================================
+
+1. Purpose and Core Values
+2. Professional Conduct Standards
+3. Conflicts of Interest
+4. Confidentiality and Proprietary Information
+5. Use of Company Resources
+6. Communication and Social Media
+7. Gifts, Entertainment, and Business Courtesies
+8. Workplace Relationships
+9. Political Activities and Charitable Giving
+10. Compliance and Legal Requirements
+11. Reporting Violations and Whistleblower Protection
+12. Consequences of Policy Violations
+
+================================================================================
+1. PURPOSE AND CORE VALUES
+================================================================================
+
+1.1 PURPOSE OF THIS CODE
+
+This Code of Conduct & Ethics establishes the standards of behavior expected of all TechCorp Solutions employees, contractors, and representatives. Our reputation and success depend on the ethical behavior and integrity of every member of our organization.
+
+This code applies to:
+- All employees (full-time, part-time, temporary)
+- Contractors and consultants
+- Board members
+- Interns and volunteers
+- Anyone representing TechCorp Solutions
+
+Each person is responsible for understanding and following this code. Ignorance of the code is not an excuse for violations.
+
+1.2 TECHCORP CORE VALUES
+
+Our actions and decisions should reflect these core values:
+
+INTEGRITY
+- Be honest and transparent in all business dealings
+- Keep promises and commitments
+- Admit mistakes and take responsibility
+- Do the right thing even when no one is watching
+
+RESPECT
+- Treat everyone with dignity and courtesy
+- Value diverse perspectives and backgrounds
+- Listen actively and communicate respectfully
+- Honor confidences and privacy
+
+EXCELLENCE
+- Strive for high-quality work in everything we do
+- Continuously learn and improve
+- Take pride in our work and company
+- Go above and beyond for customers and colleagues
+
+COLLABORATION
+- Work together toward common goals
+- Share knowledge and support team success
+- Seek input and build consensus
+- Put team success ahead of personal recognition
+
+INNOVATION
+- Embrace change and new ideas
+- Challenge the status quo constructively
+- Learn from failure
+- Stay curious and open-minded
+
+ACCOUNTABILITY
+- Take ownership of our work and decisions
+- Follow through on commitments
+- Accept feedback gracefully
+- Hold ourselves and others to high standards
+
+1.3 ETHICAL DECISION-MAKING FRAMEWORK
+
+When faced with an ethical dilemma, ask yourself:
+
+1. Is it legal? (Does it comply with laws and regulations?)
+2. Is it aligned with TechCorp's values and policies?
+3. Would I be comfortable if it appeared in the news?
+4. Would I want my family to know about this decision?
+5. Does it treat people fairly and with respect?
+6. What would happen if everyone did this?
+
+If you answer "no" or "unsure" to any question, seek guidance before proceeding.
+
+When in doubt:
+- Pause before acting
+- Consult this code of conduct
+- Ask your manager
+- Contact HR or Legal
+- Use the Ethics Hotline: 1-800-XXX-XXXX
+
+================================================================================
+2. PROFESSIONAL CONDUCT STANDARDS
+================================================================================
+
+2.1 GENERAL WORKPLACE BEHAVIOR
+
+Expected Behaviors:
+- Arrive on time and meet commitments
+- Maintain professional appearance appropriate to role
+- Use professional language (no profanity, offensive jokes)
+- Be courteous to colleagues, customers, and visitors
+- Keep workspace clean and organized
+- Follow all company policies and procedures
+
+Unacceptable Behaviors:
+- Harassment, discrimination, or bullying of any kind
+- Violence, threats, or intimidation
+- Illegal drug use or intoxication at work
+- Theft or misuse of company property
+- Dishonesty, fraud, or deception
+- Insubordination or disrespect toward management
+- Deliberate violation of safety rules
+
+2.2 ATTENDANCE AND PUNCTUALITY
+
+- Follow your scheduled work hours consistently
+- Notify your manager if late or unable to work
+- Use appropriate leave for absences
+- Do not abuse sick leave, PTO, or other leave policies
+- Excessive tardiness or absenteeism may result in disciplinary action
+
+2.3 DRESS CODE
+
+Business Casual Standard:
+- Clean, neat, and professional appearance
+- No offensive graphics, slogans, or revealing clothing
+- Closed-toe shoes in manufacturing/lab areas
+- Follow department-specific requirements
+
+Client-Facing Roles:
+- Business professional attire for client meetings
+- Err on the side of more formal when meeting new clients
+
+Casual Fridays:
+- Jeans and sneakers permitted
+- Still maintain neat, professional appearance
+- No ripped, torn, or excessively worn clothing
+
+Remote Workers:
+- Professional appearance for video calls
+- Business casual minimum for camera-on meetings
+
+2.4 SUBSTANCE ABUSE
+
+TechCorp is committed to maintaining a safe, productive workplace free from substance abuse.
+
+Prohibited:
+- Reporting to work under the influence of alcohol or illegal drugs
+- Possessing, using, or distributing illegal drugs on company premises
+- Consuming alcohol during work hours (except approved company events)
+- Misuse of prescription medications affecting job performance
+
+Permitted:
+- Alcohol at company-sponsored events with CEO/VP approval
+- Prescription medications as directed by doctor (notify manager if affects work)
+- Over-the-counter medications used responsibly
+
+Violations will result in:
+- First offense: Mandatory substance abuse assessment and possible treatment
+- Second offense: Suspension without pay
+- Third offense: Termination
+
+Employees struggling with substance abuse are encouraged to seek help through our Employee Assistance Program (EAP) before problems affect work.
+
+2.5 WORKPLACE VIOLENCE PREVENTION
+
+TechCorp has zero tolerance for workplace violence.
+
+Prohibited Actions:
+- Physical violence or assault
+- Threats of violence (verbal, written, electronic)
+- Intimidation or bullying
+- Weapons on company premises (except authorized security personnel)
+- Stalking or harassment
+- Destruction of property in anger
+
+Report immediately:
+- Any threats or violence
+- Concerning behavior that could escalate
+- Weapons observed on premises
+- Domestic violence affecting workplace
+
+Emergency: Call 911 and notify Security at (555) 123-9999
+
+2.6 PROFESSIONAL COMMUNICATION
+
+Written Communication (Email, Chat, Documents):
+- Use professional tone and language
+- Proofread before sending
+- Avoid ALL CAPS (perceived as shouting)
+- Be clear, concise, and respectful
+- Remember: Written communication is permanent and discoverable
+
+Verbal Communication (Phone, Meetings, Conversations):
+- Listen actively without interrupting
+- Speak respectfully even in disagreement
+- Avoid gossip and negative talk about colleagues
+- Address conflicts directly with involved parties
+- Use appropriate volume and tone
+
+Video Meetings:
+- Camera on for internal meetings when possible
+- Professional appearance and background
+- Mute when not speaking in large meetings
+- Be present and attentive (no multitasking visibly)
+
+2.7 MEETING ETIQUETTE
+
+- Arrive on time (or join early for video calls)
+- Come prepared with necessary materials
+- Participate actively and constructively
+- Stay focused (minimize phone/laptop use)
+- Follow up on action items promptly
+- End on time and respect others' schedules
+
+================================================================================
+3. CONFLICTS OF INTEREST
+================================================================================
+
+3.1 DEFINITION OF CONFLICT OF INTEREST
+
+A conflict of interest occurs when personal interests interfere with, or appear to interfere with, the interests of TechCorp. Even the appearance of a conflict can damage trust and reputation.
+
+3.2 COMMON CONFLICTS OF INTEREST
+
+Outside Employment:
+- Working for a competitor, customer, or supplier
+- Freelancing in related industry
+- Consulting that uses TechCorp knowledge or resources
+
+Financial Interests:
+- Owning stock in competitors, customers, or suppliers
+- Personal business relationships with TechCorp vendors
+- Real estate transactions involving company land or property
+
+Personal Relationships:
+- Hiring, supervising, or influencing decisions about family members
+- Romantic relationships with direct reports
+- Business dealings with friends or relatives
+
+Using Position for Personal Gain:
+- Directing business to companies you have financial interest in
+- Using company information for personal investments
+- Leveraging TechCorp relationships for personal business
+
+3.3 DISCLOSURE REQUIREMENTS
+
+You MUST disclose potential conflicts to your manager and HR:
+- Before accepting outside employment
+- When considering investment in TechCorp-related companies
+- When personal relationship affects work decisions
+- Annually during conflict of interest certification process
+
+Disclosure Process:
+1. Complete Conflict of Interest Disclosure Form (HR-COI-001)
+2. Submit to your manager and HR
+3. HR/Legal will review and determine if conflict exists
+4. If conflict exists, work with HR to resolve (recusal, divestment, etc.)
+5. Document resolution in personnel file
+
+3.4 PERMITTED ACTIVITIES
+
+The following are generally NOT conflicts of interest (but should still be disclosed):
+- Passive stock ownership (<5%) in publicly traded companies
+- Serving on nonprofit boards (with company approval)
+- Teaching or speaking engagements not using proprietary information
+- Personal investments in diversified mutual funds
+
+3.5 FAMILY MEMBER EMPLOYMENT
+
+TechCorp allows hiring family members with restrictions:
+- Cannot work in same department
+- Cannot have reporting relationship (direct or indirect)
+- Must be best qualified candidate for the position
+- Requires VP approval
+- Both employees must disclose relationship
+
+Family members include: Spouse, domestic partner, children, parents, siblings, in-laws, and anyone living in your household.
+
+3.6 ROMANTIC RELATIONSHIPS
+
+Consensual romantic relationships between employees are permitted with restrictions:
+
+Prohibited:
+- Relationships between supervisor and direct report
+- Relationships creating conflict of interest or favoritism
+- Relationships affecting work performance
+
+Required:
+- Disclose relationship to HR if involves reporting relationship or potential conflict
+- May require transfer to different department or reporting structure
+- Both parties must acknowledge consensual nature of relationship
+
+Professional behavior required:
+- No public displays of affection at work
+- No favoritism or preferential treatment
+- Maintain professional boundaries at work
+- If relationship ends, continue professional working relationship
+
+Failure to disclose may result in disciplinary action for both parties.
+
+================================================================================
+4. CONFIDENTIALITY AND PROPRIETARY INFORMATION
+================================================================================
+
+4.1 DEFINITION OF CONFIDENTIAL INFORMATION
+
+Confidential information includes any non-public information about TechCorp's business, including but not limited to:
+
+Business Information:
+- Strategic plans and business strategies
+- Financial data, forecasts, and budgets
+- Merger, acquisition, or partnership discussions
+- Pricing information and profit margins
+- Marketing plans and campaigns
+
+Technical Information:
+- Source code and software
+- Algorithms and processes
+- Product designs and specifications
+- Research and development projects
+- Patents, trademarks, and intellectual property
+
+Customer/Client Information:
+- Client lists and contact information
+- Contract terms and pricing
+- Client business strategies and plans
+- Confidential client data
+- Sales pipeline and opportunities
+
+Employee Information:
+- Personnel files and performance reviews
+- Salary and compensation information
+- Medical information and accommodations
+- Social Security numbers and personal data
+- Disciplinary records
+
+4.2 PROTECTING CONFIDENTIAL INFORMATION
+
+Your Responsibilities:
+- Access only information needed for your job
+- Do not share confidential information with unauthorized persons
+- Use encryption for sensitive data
+- Secure physical documents (locked cabinets, clean desk)
+- Shred confidential documents before disposal
+- Report suspected breaches immediately
+
+Outside the Office:
+- Do not discuss confidential matters in public places
+- Be cautious on phone calls in public (elevators, restaurants, planes)
+- Secure laptops and devices when traveling
+- Do not use public WiFi for confidential work without VPN
+- Be aware of visual privacy (shoulder surfing on planes/trains)
+
+After Employment:
+- Return all company property and documents
+- Delete company information from personal devices
+- Continue to protect confidential information you learned
+- Non-disclosure obligations continue after employment ends
+
+4.3 INTELLECTUAL PROPERTY
+
+Work Product Ownership:
+- TechCorp owns all work created during employment
+- This includes: Code, designs, inventions, writings, improvements
+- Applies whether created during work hours or using company resources
+- Must sign Intellectual Property Assignment Agreement
+
+Patents and Inventions:
+- Promptly disclose inventions related to TechCorp business
+- Company determines whether to pursue patent protection
+- Inventors recognized but ownership remains with TechCorp
+- May receive recognition bonus for valuable inventions
+
+Open Source Software:
+- Do not incorporate open source code without Legal approval
+- Understand licensing restrictions (GPL, MIT, Apache, etc.)
+- Do not release company code as open source without authorization
+- Follow company Open Source Policy (POL-IT-OS-2024)
+
+4.4 NON-DISCLOSURE AGREEMENTS (NDAs)
+
+When to Use NDAs:
+- Discussions with potential partners or vendors
+- Sharing confidential information with third parties
+- Client projects requiring mutual confidentiality
+- Hiring contractors or consultants
+
+Process:
+- Contact Legal to review/prepare NDA
+- Do not use personal or non-approved NDA templates
+- Both parties must sign before sharing confidential information
+- File executed NDA with Legal department
+
+Receiving Confidential Information:
+- Only accept under NDA or similar agreement
+- Treat other companies' confidential information with same care as our own
+- Use only for authorized purposes
+- Return or destroy when no longer needed
+
+4.5 PUBLIC DISCLOSURE AND MEDIA CONTACT
+
+Media Inquiries:
+- Refer all media inquiries to Corporate Communications
+- Do not speak to press without authorization
+- This includes: Newspapers, TV, radio, podcasts, blogs
+- Contact: media@techcorp.com or (555) 123-4600
+
+Public Speaking:
+- Speaking at conferences about TechCorp requires approval
+- Submit speaking requests to manager and Corporate Communications
+- Use approved presentation templates and talking points
+- Do not disclose confidential information in presentations
+
+Social Media:
+- See Section 6 for detailed social media policy
+- Never disclose confidential information on social media
+- Add disclaimer: "Views are my own, not my employer's"
+
+Securities Laws:
+- Do not discuss non-public financial information publicly
+- Violations could constitute illegal "tipping" under securities laws
+- When in doubt, stay silent and contact Legal
+
+================================================================================
+5. USE OF COMPANY RESOURCES
+================================================================================
+
+5.1 COMPANY PROPERTY
+
+TechCorp provides resources to enable your work. Use them responsibly and primarily for business purposes.
+
+Company property includes:
+- Computers, laptops, tablets, phones
+- Software licenses and cloud services
+- Office equipment (printers, scanners, etc.)
+- Vehicles and equipment
+- Office supplies
+- Facilities and meeting rooms
+- Internet and network access
+
+5.2 ACCEPTABLE PERSONAL USE
+
+Reasonable personal use of company resources is permitted:
+- Brief personal phone calls or emails
+- Occasional personal internet use during breaks
+- Printing limited personal documents
+- Using meeting rooms for employee groups (with approval)
+
+Limits on personal use:
+- Does not interfere with work duties
+- Does not consume significant time or resources
+- Does not involve prohibited activities
+- Does not create legal liability for company
+
+5.3 PROHIBITED USES
+
+Never use company resources for:
+- Illegal activities
+- Outside business or employment
+- Gambling or lottery sites
+- Pornography or sexually explicit material
+- Hate speech or discriminatory content
+- Excessive personal use
+- Activities violating company policies
+- Downloading pirated software, movies, or music
+
+5.4 TECHNOLOGY USE POLICIES
+
+Email:
+- Use for business purposes primarily
+- Brief personal emails permitted
+- Follow professional communication standards
+- Do not send spam, chain letters, or mass non-business emails
+- No expectation of privacy (company can monitor)
+
+Internet Browsing:
+- Appropriate business-related sites
+- Brief personal browsing during breaks
+- Prohibited sites are blocked by filters
+- Browsing history may be monitored
+
+Software Installation:
+- Do not install unauthorized software
+- Request software through IT helpdesk
+- Do not disable security software or VPN
+- Keep all software updated
+
+Mobile Devices:
+- Company phones provided for business use
+- Personal use permitted but limit data usage
+- Install required security and tracking apps
+- Report lost or stolen devices immediately
+
+5.5 MONITORING AND PRIVACY
+
+No Expectation of Privacy:
+- Company reserves right to monitor all use of company resources
+- This includes: Email, internet, phone, files, messages
+- Monitoring may occur without notice
+- Data may be reviewed for: Security, compliance, performance, investigations
+
+When Monitoring Occurs:
+- Random security audits
+- Investigating policy violations
+- Responding to legal requests
+- Managing network performance
+- Protecting against cyber threats
+
+Personal Devices (BYOD):
+- If used for work, company data may be monitored
+- Company reserves right to remote wipe company data
+- Install required security software
+- Keep devices locked and secured
+
+5.6 RETURNING COMPANY PROPERTY
+
+Upon termination or at any time upon request:
+- Return all company property within 5 business days
+- This includes: Laptop, phone, badge, keys, documents, equipment
+- Delete all company data from personal devices
+- Complete Asset Return Checklist (HR-AR-001)
+
+Failure to return property:
+- May delay final paycheck
+- Deduction from final pay for unreturned items
+- Potential legal action for expensive items
+
+================================================================================
+6. COMMUNICATION AND SOCIAL MEDIA
+================================================================================
+
+6.1 SOCIAL MEDIA POLICY
+
+TechCorp recognizes employees' rights to use social media personally. However, your online presence can affect the company.
+
+This policy applies to:
+- Personal social media accounts (Facebook, Twitter/X, LinkedIn, Instagram)
+- Professional networking sites
+- Blogs and personal websites
+- Online forums and comment sections
+- YouTube, TikTok, and video platforms
+
+6.2 PERSONAL SOCIAL MEDIA GUIDELINES
+
+Required:
+- Use disclaimer: "Views expressed are my own and do not represent my employer"
+- Keep company confidential information confidential
+- Respect copyrights and trademarks
+- Follow all company policies online as you would offline
+
+Prohibited:
+- Posting confidential company information
+- Disparaging the company, colleagues, or customers
+- Harassment or discriminatory comments
+- Claiming to speak for TechCorp without authorization
+- Using company logos without permission
+- Posting during work hours excessively
+
+Best Practices:
+- Think before you post (permanent and public)
+- Be respectful and professional
+- Protect your privacy with security settings
+- Report threats or concerning posts about TechCorp to security@techcorp.com
+- When discussing work, be positive or neutral
+
+6.3 REPRESENTING TECHCORP ON SOCIAL MEDIA
+
+Official Company Accounts:
+- Only authorized employees may post to official TechCorp accounts
+- Follow brand guidelines and approval processes
+- Coordinate with Marketing/Communications department
+- Contact: socialmedia@techcorp.com
+
+Employee Advocacy:
+- Employees encouraged to share company news and content
+- Use approved hashtags: #TechCorpLife #TeamTechCorp
+- Share job postings, company achievements, culture posts
+- Like, comment, and engage with company content
+- Never obligated to post about company
+
+Influencer Activity:
+- If you have significant following (10K+ followers), notify PR team
+- Disclosure required for any posts about TechCorp products
+- Follow FTC guidelines for endorsements
+- Coordinate with Marketing for partnership opportunities
+
+6.4 LINKEDIN GUIDANCE
+
+Profile Information:
+- Keep employment information accurate and current
+- Use professional photo
+- May mention TechCorp projects (only non-confidential information)
+- Use appropriate skills and endorsements
+
+Networking:
+- Connect with colleagues, clients, partners appropriately
+- Do not add clients on personal Facebook without professional relationship
+- Keep LinkedIn connections professional
+- Engage positively with company posts
+
+Job Searching:
+- You may indicate "open to opportunities" discreetly
+- Do not badmouth TechCorp while employed
+- Maintain confidentiality during notice period
+- Update employment info promptly after departure
+
+6.5 ONLINE REVIEWS AND RATINGS
+
+Glassdoor/Indeed:
+- Honest reviews permitted
+- Do not disclose confidential information
+- Avoid defamatory statements
+- Company cannot retaliate for honest reviews
+- Contact HR with concerns before posting negative review
+
+Product/Service Reviews:
+- May review competitor products as consumer
+- Disclose TechCorp employment when relevant
+- Do not post fake reviews of TechCorp or competitor products
+- Maintain honesty and integrity
+
+6.6 BLOGGING AND CONTENT CREATION
+
+Personal Blogs/Websites:
+- Use employment disclaimer
+- Do not use company time or resources
+- Do not reveal trade secrets or confidential information
+- Be respectful when discussing industry topics
+
+Guest Blogging/Publications:
+- May write for industry publications about general topics
+- Get approval before discussing TechCorp specifically
+- Submit to Legal if article mentions TechCorp or competitors
+- Include disclaimer about personal opinions
+
+Video Content:
+- YouTube, TikTok, streaming platforms require same standards
+- Do not film on company premises without permission
+- Do not show confidential information in videos
+- Get approval before creating content about TechCorp
+
+6.7 CONSEQUENCES OF VIOLATIONS
+
+Social media violations may result in:
+- Warning and required training
+- Suspension of social media access
+- Disciplinary action up to termination
+- Legal action for particularly damaging posts
+
+Remember: Posts can be screenshot and shared even if deleted. Think carefully before posting anything about work.
+
+================================================================================
+7. GIFTS, ENTERTAINMENT, AND BUSINESS COURTESIES
+================================================================================
+
+7.1 POLICY OVERVIEW
+
+Business courtesies can strengthen relationships but must not compromise integrity or create perception of improper influence.
+
+7.2 RECEIVING GIFTS AND ENTERTAINMENT
+
+General Rule:
+- Modest gifts and entertainment are acceptable
+- Must not influence business decisions
+- Must not create obligation or appearance of impropriety
+- When in doubt, decline or consult manager
+
+Acceptable:
+- Promotional items (pens, notepads, t-shirts) under $25
+- Holiday gifts under $50
+- Business meals with vendors/clients
+- Tickets to sporting events/shows if vendor attends with you
+- Industry conference attendance
+
+Requires Approval:
+- Gifts valued $50-$100: Manager approval
+- Gifts valued $100-$250: Director approval
+- Gifts over $250: VP approval and must be reported
+
+Prohibited:
+- Cash or cash equivalents (gift cards over $25)
+- Gifts to influence purchasing decisions
+- Lavish or excessive entertainment
+- Anything illegal or inappropriate
+- Gifts from vendors during active bidding/negotiation process
+
+7.3 GIVING GIFTS AND ENTERTAINMENT
+
+To Clients/Customers:
+- Reasonable business meals and entertainment permitted
+- Keep within budget guidelines ($150/person typical limit)
+- Must have legitimate business purpose
+- No gifts to government officials without Legal approval
+- Expense appropriately with receipts and business justification
+
+To Colleagues:
+- Small gifts for birthdays, weddings, babies permitted
+- Office collections for group gifts acceptable
+- Secret Santa/holiday exchanges ($25 limit typical)
+- Do not give gifts to supervisors (appearance of favoritism)
+- Supervisors may give modest gifts to team
+
+International Business:
+- Gift-giving customs vary by culture
+- Consult Legal before giving/receiving gifts internationally
+- Some countries prohibit gifts to government officials entirely
+- Research local customs and laws
+
+7.4 REPORTING REQUIREMENTS
+
+Must Report:
+- Any single gift over $50
+- Multiple gifts from same source totaling over $100 in a year
+- Entertainment valued over $100
+- Any gift you're uncomfortable accepting
+
+Reporting Process:
+1. Complete Gift Disclosure Form (HR-GIFT-001)
+2. Submit to manager and Ethics Officer
+3. Include: Giver, value, reason, date
+4. Ethics Officer reviews and determines action
+5. May require returning gift or donating to charity
+
+7.5 GOVERNMENT OFFICIALS AND CONTRACTS
+
+Strict rules apply for government business:
+
+Prohibited:
+- Any gifts to government employees (federal, state, local)
+- Meals or entertainment with government officials (with few exceptions)
+- Campaign contributions on behalf of TechCorp
+
+Required:
+- Legal approval for any courtesy to government official
+- Detailed documentation of all government interactions
+- Special training for employees working on government contracts
+
+Contact Legal immediately if offered or asked to provide anything to government official.
+
+================================================================================
+8. WORKPLACE RELATIONSHIPS
+================================================================================
+
+8.1 EQUAL EMPLOYMENT OPPORTUNITY
+
+TechCorp is an equal opportunity employer. We do not discriminate based on:
+- Race, color, ethnicity, national origin
+- Religion or creed
+- Sex, gender, gender identity, gender expression
+- Sexual orientation
+- Age (40 and over)
+- Disability (physical or mental)
+- Genetic information
+- Pregnancy or parental status
+- Veteran or military status
+- Any other protected characteristic
+
+This applies to:
+- Hiring and recruitment
+- Compensation and benefits
+- Promotion and advancement
+- Training and development
+- Discipline and termination
+- All terms and conditions of employment
+
+8.2 HARASSMENT PREVENTION
+
+TechCorp prohibits all forms of harassment, including sexual harassment.
+
+Sexual Harassment Includes:
+- Unwelcome sexual advances or requests for sexual favors
+- Offensive comments about gender, appearance, or sexuality
+- Displaying sexually explicit materials
+- Inappropriate touching or invasion of personal space
+- Sexual jokes, innuendos, or comments
+- Quid pro quo (job benefits for sexual favors)
+
+Other Harassment Includes:
+- Racial slurs or jokes
+- Religious mockery or pressure
+- Age-related comments or stereotypes
+- Disability discrimination or mockery
+- Bullying, intimidation, or threats
+- Creating hostile work environment based on protected characteristics
+
+Examples of Harassment:
+- "You'd look better if you smiled more"
+- Commenting on someone's body or appearance
+- Jokes about race, religion, gender, age, disability
+- Mocking someone's accent or national origin
+- Displaying offensive images or cartoons
+- Unwelcome physical contact (hugging, touching)
+- Following or stalking behavior
+
+8.3 REPORTING HARASSMENT OR DISCRIMINATION
+
+If you experience or witness harassment:
+
+Step 1: Tell the person to stop (if comfortable doing so)
+- Clearly state behavior is unwelcome
+- Document the conversation
+
+Step 2: Report to any of the following:
+- Your manager
+- HR Department: hr@techcorp.com or (555) 123-4500
+- Ethics Hotline: 1-800-XXX-XXXX (anonymous option available)
+- Any member of leadership
+
+Step 3: Investigation
+- HR will promptly investigate all reports
+- Confidentiality maintained to extent possible
+- Both parties interviewed along with witnesses
+- Investigation typically completed within 2 weeks
+
+Step 4: Resolution
+- Appropriate action taken based on findings
+- May include: Training, counseling, discipline, termination
+- Follow-up with reporting party to ensure no retaliation
+
+You will not be retaliated against for reporting in good faith.
+
+8.4 RETALIATION PROHIBITION
+
+Retaliation against anyone who reports concerns is strictly prohibited.
+
+Retaliation includes:
+- Termination, demotion, or poor performance reviews
+- Exclusion from meetings or projects
+- Gossip or ostracism
+- Threats or intimidation
+- Any adverse action because of report
+
+Report retaliation immediately to HR or Ethics Hotline.
+
+8.5 WORKPLACE BULLYING
+
+Bullying creates hostile environment and is prohibited.
+
+Examples of bullying:
+- Persistent criticism unrelated to job performance
+- Public humiliation or belittling
+- Excluding someone from team activities deliberately
+- Sabotaging someone's work
+- Spreading false rumors
+- Aggressive or threatening behavior
+
+Bullying is different from:
+- Legitimate performance feedback
+- Appropriate discipline for policy violations
+- Management decisions about assignments or promotions
+- Personality conflicts (not based on protected characteristic)
+
+Both harassment and bullying are prohibited and subject to discipline.
+
+8.6 ACCOMMODATION FOR DISABILITIES
+
+TechCorp provides reasonable accommodations for qualified individuals with disabilities.
+
+Request Process:
+1. Notify HR of need for accommodation
+2. Provide medical documentation if requested
+3. Engage in interactive process to determine accommodation
+4. Implement agreed-upon accommodation
+5. Review effectiveness and adjust as needed
+
+Examples of accommodations:
+- Modified work schedules
+- Ergonomic equipment
+- Assistive technology
+- Quiet workspace
+- Service animals
+- Sign language interpreters
+
+Accommodation must not create undue hardship for company or compromise essential job functions.
+
+8.7 RELIGIOUS ACCOMMODATIONS
+
+TechCorp respects religious diversity and provides reasonable accommodations.
+
+Examples:
+- Time off for religious observances (use floating holidays or PTO)
+- Prayer breaks
+- Dress code exceptions for religious garments
+- Dietary accommodations at company events
+- Schedule modifications for Sabbath observance
+
+Request accommodations through HR. We will work with you to find reasonable solutions.
+
+================================================================================
+9. POLITICAL ACTIVITIES AND CHARITABLE GIVING
+================================================================================
+
+9.1 POLITICAL ACTIVITIES
+
+Personal Political Activities:
+- You have the right to participate in political process personally
+- Vote, volunteer, donate, express views on personal time
+- Use personal social media (not company accounts)
+- Do not use company email or resources for political activities
+- Do not claim to represent TechCorp in political matters
+
+At Work:
+- Political discussions should be respectful and brief
+- Do not pressure colleagues about political views
+- Political attire generally discouraged (campaign t-shirts, hats)
+- No political campaigning or fundraising at work
+- Time off to vote permitted (see Time Off Policy)
+
+Company Political Activity:
+- TechCorp may take positions on issues affecting our business
+- Only CEO and authorized executives may speak for company politically
+- Company does not make political contributions or endorse candidates
+- Lobbying activities conducted by Government Affairs with appropriate registration
+
+9.2 CHARITABLE GIVING AND VOLUNTEERISM
+
+Company-Supported Charities:
+- TechCorp supports various charitable organizations
+- Employee participation is voluntary, never coerced
+- Paid volunteer time available (see Time Off Policy)
+- Company matches employee donations (up to $1,000/year per employee)
+
+Workplace Fundraising:
+- Must be approved by HR
+- No pressure to participate
+- Cannot target specific employees for donations
+- Keep disruption to work minimal
+
+United Way and Similar Campaigns:
+- Annual giving campaign supported by company
+- Payroll deduction option available
+- Participation voluntary and confidential
+- No retaliation for non-participation
+
+Personal Charitable Activity:
+- Do not use company name or resources without approval
+- Do not solicit donations from clients or vendors
+- Serving on nonprofit boards permitted (with disclosure)
+
+================================================================================
+10. COMPLIANCE AND LEGAL REQUIREMENTS
+================================================================================
+
+10.1 LEGAL COMPLIANCE OBLIGATION
+
+All employees must comply with applicable laws and regulations, including:
+- Federal, state, and local employment laws
+- Anti-discrimination and harassment laws
+- Wage and hour laws
+- Safety and environmental regulations
+- Securities laws
+- Anti-corruption laws (FCPA, UK Bribery Act)
+- Export control laws
+- Antitrust and competition laws
+- Data protection and privacy laws (GDPR, CCPA)
+
+Ignorance of the law is not a defense. If unsure about legal requirements, consult Legal.
+
+10.2 ANTI-CORRUPTION AND BRIBERY
+
+TechCorp prohibits bribery and corruption in all forms.
+
+Prohibited:
+- Bribing government officials (domestic or foreign)
+- Kickbacks or improper payments to win business
+- Facilitation payments (even if small amounts)
+- Money laundering
+- Gifts or payments to influence decisions improperly
+
+Foreign Corrupt Practices Act (FCPA):
+- Applies to all international business activities
+- Severe penalties for violations (criminal charges, fines)
+- Covers bribes to foreign government officials
+- Required training for employees working internationally
+
+Red Flags:
+- Request for payment to government official
+- Unusual payment terms (cash, offshore accounts)
+- Agent or consultant with government connections
+- Vague invoices or lack of documentation
+- Excessive commissions or fees
+
+Report any suspected corruption immediately to Legal or Ethics Hotline.
+
+10.3 ANTITRUST AND COMPETITION
+
+TechCorp competes fairly and legally in the marketplace.
+
+Prohibited Activities:
+- Price fixing with competitors
+- Bid rigging or collusion
+- Market allocation agreements
+- Sharing confidential competitive information
+- Exclusive dealing arrangements (with exceptions)
+- Predatory pricing to eliminate competitors
+
+At Trade Association Meetings and Industry Events:
+- Do not discuss: Prices, costs, customers, territories, strategies
+- Leave immediately if improper topics discussed
+- Document that you objected and left
+- Report to Legal immediately
+
+Gathering Competitive Intelligence:
+- Public sources acceptable (websites, press releases, publications)
+- Trade shows and conferences permitted
+- Prohibited: Misrepresenting identity, stealing information, bribing employees
+
+10.4 EXPORT CONTROLS AND SANCTIONS
+
+Certain products, technology, and services are subject to export restrictions.
+
+Requirements:
+- Know your customer (end user and end use)
+- Screen against restricted parties lists
+- Obtain export licenses when required
+- Do not export to embargoed countries (Cuba, Iran, North Korea, Syria, etc.)
+- Technology transfers subject to same rules
+
+Warning Signs:
+- Customer reluctant to provide end-use information
+- Shipping route unusual or circuitous
+- Customer located in high-risk country
+- Product inconsistent with customer's business
+
+Contact Legal before any international transaction if uncertain.
+
+10.5 ACCURATE RECORDS AND REPORTING
+
+Financial Integrity:
+- Record all transactions accurately and completely
+- Maintain supporting documentation
+- Never falsify records or reports
+- No off-the-book accounts or transactions
+- Follow Generally Accepted Accounting Principles (GAAP)
+
+Time Reporting:
+- Accurately report all hours worked
+- Do not work off-the-clock
+- Take required meal and rest breaks
+- Report accurately even if approaching overtime
+
+Expense Reporting:
+- Submit only legitimate business expenses
+- Provide itemized receipts
+- Do not inflate or falsify expenses
+- Follow Expense Reimbursement Policy
+
+Business Records:
+- Maintain records per retention policy
+- Do not destroy records subject to legal hold
+- Organize and label records appropriately
+- Back up important documents
+
+10.6 INSIDER TRADING PROHIBITION
+
+Employees with access to material non-public information must not trade securities based on that information.
+
+Material Information includes:
+- Financial results before public announcement
+- Merger or acquisition plans
+- Major contracts won or lost
+- Significant product launches or failures
+- Executive changes
+- Regulatory actions or lawsuits
+
+Prohibited:
+- Trading TechCorp stock while aware of material non-public information
+- Trading in customer/partner/supplier stock based on information learned through work
+- "Tipping" others (sharing information so they can trade)
+
+Blackout Periods:
+- Employees with access to financial information subject to trading blackout periods
+- Typically begins 2 weeks before earnings announcement until 2 days after
+- Specific employees notified by Legal/Finance
+
+Violations of insider trading laws result in:
+- SEC investigation and enforcement
+- Criminal charges (up to 20 years prison)
+- Fines (up to $5 million for individuals)
+- Immediate termination
+- Damage to personal and company reputation
+
+When in doubt, don't trade. Consult Legal or Securities Compliance Officer.
+
+================================================================================
+11. REPORTING VIOLATIONS AND WHISTLEBLOWER PROTECTION
+================================================================================
+
+11.1 DUTY TO REPORT
+
+All employees have a duty to report suspected violations of:
+- This Code of Conduct
+- Company policies
+- Laws and regulations
+- Ethical concerns
+
+You are not expected to be certain a violation occurred—report concerns even if unsure.
+
+11.2 REPORTING CHANNELS
+
+Multiple ways to report concerns:
+
+Manager:
+- Your direct manager
+- Skip-level manager if concern involves direct manager
+
+Human Resources:
+- Phone: (555) 123-4500
+- Email: hr@techcorp.com
+- In person: HR Department, Building A, Floor 3
+
+Legal Department:
+- Phone: (555) 123-4700
+- Email: legal@techcorp.com
+
+Ethics Hotline:
+- Phone: 1-800-XXX-XXXX (24/7, multilingual)
+- Online: ethics.techcorp.com
+- Anonymous reporting available
+- Third-party operated (independent from company)
+
+Choose the channel you're most comfortable with. All reports taken seriously.
+
+11.3 WHAT TO REPORT
+
+Examples of reportable concerns:
+- Harassment or discrimination
+- Safety violations
+- Financial fraud or misreporting
+- Theft or embezzlement
+- Conflicts of interest
+- Bribery or corruption
+- Data breaches or security incidents
+- Retaliation against whistleblowers
+- Environmental violations
+- Product safety issues
+- Violation of this Code of Conduct
+
+11.4 INVESTIGATION PROCESS
+
+When concern is reported:
+
+Step 1: Initial Assessment (1-2 days)
+- Concern logged and acknowledged
+- Initial assessment of severity and urgency
+- Investigation team assigned
+
+Step 2: Investigation (1-4 weeks)
+- Interviews with relevant parties
+- Document review
+- Evidence gathering
+- Confidentiality maintained to extent possible
+
+Step 3: Determination
+- Findings documented
+- Determination whether violation occurred
+- Appropriate action determined
+
+Step 4: Action
+- Discipline if violation confirmed (warning to termination)
+- Process improvements to prevent recurrence
+- Reporting party notified of outcome (to extent possible)
+
+Step 5: Follow-Up
+- Monitor for retaliation
+- Follow up with reporting party
+- Close case when resolved
+
+11.5 WHISTLEBLOWER PROTECTION
+
+No Retaliation Policy:
+- TechCorp strictly prohibits retaliation against anyone who reports concerns in good faith
+- Protected even if investigation determines no violation occurred
+- "Good faith" means honest belief concern was legitimate (even if mistaken)
+
+What Constitutes Retaliation:
+- Termination, demotion, or discipline
+- Reduction in pay or hours
+- Exclusion from meetings or projects
+- Poor performance reviews
+- Hostile treatment or ostracism
+- Threats or intimidation
+
+Protection Extends To:
+- Employees who report concerns
+- Employees who participate in investigations
+- Employees who refuse to participate in violations
+
+Not Protected:
+- False reports made with malicious intent
+- Providing false information during investigation
+- Refusing to cooperate with legitimate investigation
+- Using reporting process to pursue personal vendettas
+
+Report retaliation immediately to HR, Legal, or Ethics Hotline.
+
+11.6 CONFIDENTIALITY IN INVESTIGATIONS
+
+Investigation Confidentiality:
+- Information shared only on need-to-know basis
+- Participants instructed not to discuss investigation
+- Records maintained securely
+- Anonymous reports kept anonymous if possible
+
+Limits to Confidentiality:
+- May need to disclose information to conduct thorough investigation
+- Legal obligations may require disclosure
+- Complete anonymity not always possible (especially in small teams)
+
+Your Responsibility:
+- Do not discuss investigation with coworkers
+- Do not retaliate or gossip about parties involved
+- Maintain confidentiality even after investigation concludes
+
+11.7 EXTERNAL REPORTING
+
+Legal Rights:
+- You have the right to report concerns to government agencies (EEOC, OSHA, SEC, etc.)
+- Company cannot retaliate for external reporting
+- However, we encourage internal reporting first to allow company to address concerns
+
+Government Agencies:
+- Equal Employment Opportunity Commission (EEOC): Discrimination
+- Occupational Safety and Health Administration (OSHA): Safety
+- Securities and Exchange Commission (SEC): Financial fraud
+- Department of Labor (DOL): Wage/hour violations
+- National Labor Relations Board (NLRB): Union activity
+
+We encourage using internal channels first, but respect your right to contact external agencies.
+
+================================================================================
+12. CONSEQUENCES OF POLICY VIOLATIONS
+================================================================================
+
+12.1 DISCIPLINARY ACTIONS
+
+Violations of this Code of Conduct will result in disciplinary action, which may include:
+
+Progressive Discipline:
+- Verbal warning
+- Written warning
+- Performance Improvement Plan (PIP)
+- Suspension (with or without pay)
+- Demotion or transfer
+- Termination
+
+Serious violations may result in immediate termination without progressive discipline.
+
+12.2 FACTORS CONSIDERED
+
+When determining appropriate discipline, we consider:
+- Severity of violation
+- Whether violation was intentional or negligent
+- Previous disciplinary history
+- Position and responsibilities of employee
+- Impact on company, colleagues, or customers
+- Whether employee self-reported
+- Cooperation during investigation
+- Mitigating or aggravating circumstances
+
+12.3 IMMEDIATE TERMINATION OFFENSES
+
+The following typically result in immediate termination:
+- Violence or threats of violence
+- Theft or embezzlement
+- Fraud or deliberate falsification of records
+- Bribery or corruption
+- Serious harassment or discrimination
+- Willful violation of safety rules resulting in injury
+- Illegal activity on company premises
+- Gross insubordination
+- Breach of confidentiality causing significant harm
+- Working under influence of drugs or alcohol
+
+12.4 LEGAL CONSEQUENCES
+
+Some violations may also result in:
+- Criminal prosecution (fraud, theft, assault, etc.)
+- Civil lawsuits (harassment, discrimination, etc.)
+- Regulatory fines and penalties (export violations, insider trading, etc.)
+- Loss of professional licenses
+- Damage to personal reputation and career
+
+Company may cooperate with law enforcement in criminal investigations.
+
+12.5 ACKNOWLEDGMENT AND CERTIFICATION
+
+All employees must:
+- Read and understand this Code of Conduct
+- Complete Code of Conduct training annually
+- Certify compliance annually
+- Report any violations
+- Ask questions if unsure about expectations
+
+Your signature on the Employee Handbook Acknowledgment confirms you have read and agree to follow this Code of Conduct.
+
+Questions about this code:
+- Manager or HR for general questions
+- Ethics Officer for ethics concerns: ethics@techcorp.com
+- Legal for legal questions: legal@techcorp.com
+- Ethics Hotline: 1-800-XXX-XXXX
+
+================================================================================
+CONCLUSION
+================================================================================
+
+This Code of Conduct provides guidelines, but cannot address every situation. Use good judgment, act with integrity, and seek guidance when unsure.
+
+Remember:
+- Your conduct reflects on TechCorp
+- Reputation takes years to build, moments to destroy
+- When in doubt, ask
+- Do the right thing even when no one is watching
+- We all share responsibility for maintaining ethical culture
+
+Thank you for your commitment to upholding TechCorp's values and ethical standards.
+
+Document Control:
+Policy Owner: Chief Ethics & Compliance Officer
+Review Cycle: Annual
+Next Review Date: January 2025
+Document ID: POL-HR-COC-2024-v2.8
+
+END OF DOCUMENT
